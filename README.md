@@ -1,6 +1,6 @@
-# TensorFlow Mobile Tutorial
+# TensorFlow Train To Mobile Tutorial
 
-This repository contains the code for the reproduction of the results of the TensorFlow for Mobile blog series by inovex GmbH.
+This repository contains the code for the reproduction of the results of the *'TensorFlow Train To Mobile'* blog series by inovex GmbH.
 
 
 Blogposts:
